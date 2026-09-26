@@ -1,6 +1,6 @@
 # image-alpha-blending
 
-A small Python project demonstrating alpha blending between two images.
+A Python project demonstrating alpha blending between two images.
 
 The blended image is computed using:
 
